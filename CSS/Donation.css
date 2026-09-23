@@ -1288,6 +1288,14 @@ height: 75%;
    .pultra:hover{
     color: white;
    }
+   .pa:hover{
+    transition: all ease-in-out 0.1s;
+    transform: scale(1.02);
+   }
+   .p1:hover{
+    transform: scale(1.04);
+    transition: all ease-in-out 0.1s;
+   }
 .w:hover{
     color: powderblue;
 }
@@ -1404,7 +1412,7 @@ input{
    320px - 600px
 ===================================================== */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
 
     /* -------------------------
        BASIC
@@ -1905,7 +1913,7 @@ input{
     }
 
     .k2 {
-        margin: 25px 0 0;
+        margin: 100px 0 0;
         /* height: ; */
     }
     .k2 img{
@@ -2357,7 +2365,7 @@ input{
     .box7,
     .box7down,
     .box7r {
-        width: 80%;
+        width: 100%;
     }
 
     .lname {
