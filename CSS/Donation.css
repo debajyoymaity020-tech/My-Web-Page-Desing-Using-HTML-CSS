@@ -1392,13 +1392,12 @@ input{
     /* width: 300px; */
     /* border: 1px solid red; */
     font-size: 27px;
-    color:#1ed760;
-    font-family: "Pacifico", cursive;
+    font-family:'Courier New', Courier, monospace;
     text-shadow: 0 0 10px #1ed760,
     0 0 10px #1ed760;
 }
 .dm:hover{
-    color: white;
+    color:#1ed760;
 }
 
  /* RESPONSIVE FOR THE TABLET & PX-768 */
