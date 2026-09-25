@@ -4,17 +4,17 @@ body{
         radial-gradient(circle at 15% 20%, #043d26 0%, transparent 30%),
         radial-gradient(circle at 90% 10%, #075a31 0%, transparent 35%),
         linear-gradient(135deg, #021711, #00100c 60%, #031c14);
-    overflow: hidden;
+    /* overflow: hidden; */
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 main{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
 }
 .box1{
-    height: 760.7px;
+    /* height:900.7px; */
     width: 49%;
     /* border: 1px solid red; */
     position: relative;
@@ -35,7 +35,7 @@ main{
         inset 0 0 20px rgba(0, 295, 136, 0.08);
 }
 .box{
-    height: 788.7px;
+    /* height: 788.7px; */
     width: 49%;
     /* border: 1px solid red; */
     position: relative;
@@ -57,7 +57,7 @@ main{
 		color: #1ed760;
         font-size: 19px;
         margin-left:110px;
-        margin-top: 60px;
+        margin-top: 10px;
     }
     .gd{
         font-size: 69px;
